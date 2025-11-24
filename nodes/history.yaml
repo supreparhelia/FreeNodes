@@ -1591,3 +1591,1107 @@ proxies:
         headers:
             User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
         path: /Free-VPN-CF-Geo-Project/86.107.197.239=443
+    - name: "\U0001F1ED\U0001F1F0HK¹-JP⁰_1|0.7MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 149.104.28.139
+      servername: www.x-aniu--jp.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--jp.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1FA\U0001F1F8US¹⁺_1|2.7MB/s|2%|GPT⁺|GM|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 193.124.18.13
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - alterId: 2
+      cipher: auto
+      name: "\U0001F1EC\U0001F1E7GB²_1|4.6MB/s|23%|GPT⁺|YT-CN|TK|NF|D+|X"
+      port: 30829
+      server: v29.hdacd.com
+      skip-cert-verify: true
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    - name: "\U0001F1FA\U0001F1F8US¹-SG⁰_1|3.1MB/s|2%|GPT|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 104.16.45.45
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F1FA\U0001F1F8US"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1FA\U0001F1F8US²_3|0.9MB/s|100%|GPT⁺|YT|TK|NF|X"
+      network: ws
+      port: 443
+      server: xyst5w.teeoomboom.de
+      servername: xyst5w.teeoomboom.de
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+      ws-opts:
+        headers:
+            HOST: xyst5w.teeoomboom.de
+        path: /video/g5petez.m3u8
+    - name: "\U0001F1F3\U0001F1F1NL¹-US⁰_2|0.9MB/s|2%|GPT⁺|TK|NF|D+|X"
+      network: ws
+      port: 8443
+      server: 85.193.95.23
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - name: "\U0001F1FA\U0001F1F8US¹⁺_2|2.5MB/s|2%|GPT⁺|TK-PL|NF|D+|X"
+      network: ws
+      port: 443
+      server: 193.124.41.29
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - name: "\U0001F1FA\U0001F1F8US¹-HK⁰_1|1.1MB/s|2%|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 104.18.207.210
+      servername: www.x-aniu--hk.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--hk.netlib.re
+        path: /?ed=2560
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F3C1ZZ"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1FA\U0001F1F8US²_4|2.9MB/s|54%|GPT⁺|YT|TK|NF|X"
+      network: ws
+      port: 443
+      server: esss41.keeoomboom.de
+      servername: esss41.keeoomboom.de
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+      ws-opts:
+        headers:
+            HOST: esss41.keeoomboom.de
+        path: /video/66eu71eh.m3u8
+    - cipher: chacha20-ietf
+      country: "\U0001F1ED\U0001F1F0HK"
+      name: "\U0001F1ED\U0001F1F0HK²_1|0.6MB/s|0%|X"
+      password: asd123456
+      port: 8388
+      server: 103.149.183.80
+      type: ss
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1F8\U0001F1EASE²_1|2.1MB/s|0%|GPT⁺|GM|YT-MD|TK|NF|D+|X"
+      port: 443
+      reality-opts:
+        public-key: llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws
+        short-id: 86e999a2cdc2
+      server: swe-0001-xr.packet-drop-society.net
+      servername: hls-svod.itunes.apple.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6115979e-7852-4632-9f85-8a2eabfbd764
+    - client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8US¹-SG⁰_2|3.2MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 2087
+      server: 162.159.3.254
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1F7\U0001F1FARU"
+      name: "\U0001F1F7\U0001F1FARU²_1|1.6MB/s|0%|GPT⁺|YT-NL|TK-NL|NF|X"
+      password: HWNsKy61qPyoDtrEYEtZuk
+      port: 6403
+      server: 5.129.214.186
+      type: ss
+    - name: "\U0001F1FA\U0001F1F8US¹⁺_3|0.8MB/s|2%|GPT⁺|YT-HK|NF|D+|X"
+      network: ws
+      port: 2096
+      server: 108.162.198.11
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_1|0.7MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 83.229.123.87
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F3C1ZZ"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1FA\U0001F1F8US²_5|3.3MB/s|0%|GPT⁺|GM|YT|TK|NF|X"
+      network: ws
+      port: 443
+      server: okl5i3.zeeoomboom.de
+      servername: okl5i3.zeeoomboom.de
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+      ws-opts:
+        headers:
+            HOST: okl5i3.zeeoomboom.de
+        path: /video/pmi58yp5.m3u8
+    - alterId: 2
+      cipher: auto
+      name: "\U0001F1FA\U0001F1F8US²_6|1.6MB/s|54%|GPT⁺|YT-GB|TK-GB|NF|D+|X"
+      port: 30836
+      server: v36.hdacd.com
+      skip-cert-verify: true
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_14|1.0MB/s|GPT⁺|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.64
+      type: ss
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1EE\U0001F1F7IR"
+      name: "\U0001F1EE\U0001F1F7IR²_1|2.2MB/s|32%|GPT⁺|YT-GB|NF|D+|X"
+      password: 8HtC7rj6NfZncXYvAjDV5t
+      port: 7022
+      server: 213.176.16.77
+      type: ss
+    - name: "\U0001F1FA\U0001F1F8US¹-JP⁰_1|3.2MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 104.19.125.54
+      servername: www.x-aniu--jp.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--jp.netlib.re
+        path: /?ed=2560
+    - country: "\U0001F1FA\U0001F1F8US"
+      name: "\U0001F1E9\U0001F1EADE²_6|2.5MB/s|0%|GPT⁺|YT|TK|NF|X"
+      password: telegram-id-privatevpns
+      port: 22222
+      server: 63.180.109.192
+      skip-cert-verify: true
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8US²_7|0.8MB/s|0%|GPT⁺|YT-RU|TK|NF|D+|X"
+      port: 443
+      reality-opts:
+        public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      server: usa29.unlockmatrix.org
+      servername: www.bing.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9b0c1d6e-7f6e-4b06-96ba-b8a397a69166
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7KR¹-TW⁰_1|4.2MB/s|YT|TK|NF|D+"
+      network: ws
+      port: 50001
+      server: 175.210.217.204
+      servername: s3.sni565.netlib.re
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - name: "\U0001F1F5\U0001F1F1PL²_1|1.6MB/s|0%|GPT⁺|YT|NF|X"
+      network: tcp
+      port: 4655
+      server: 45.144.49.61
+      skip-cert-verify: true
+      type: vless
+      udp: true
+      uuid: 35bf2ca8-69dd-488a-b13d-1ad84d92a1c3
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F3C1ZZ"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1F8\U0001F1ECSG²_2|2.5MB/s|4%|GPT⁺|GM|YT|TK|NF|X"
+      network: ws
+      port: 8443
+      server: www.ub888.cc
+      servername: sg.hietamei-qingzeuyq.top
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: bcb7c581-3c95-4569-a4e7-918141e91ea3
+      ws-opts:
+        headers:
+            HOST: sg.hietamei-qingzeuyq.top
+        path: /
+    - name: "\U0001F1EC\U0001F1E7GB⁻¹_1|2.5MB/s|2%|TK|NF|D+"
+      network: ws
+      password: 02c4c6a1-e96f-4778-9cb1-a2c48e05d130
+      port: 443
+      server: 35.176.229.223
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/35.176.229.223=443
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1F7\U0001F1FARU²_2|2.6MB/s|YT|TK|X"
+      port: 443
+      reality-opts:
+        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
+        short-id: ccf6f64e6bc81cd1
+      server: youtube.happvpn.com
+      servername: cdnjs.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9a12e2e5-7038-4ed8-91f3-a94d9b2d465f
+    - name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_2|3.2MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 101.32.12.79
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_15|0.8MB/s|GM|YT|TK|NF"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.103
+      type: ss
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F3C1ZZ"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1EB\U0001F1F7FR²_2|3.5MB/s|100%|GPT⁺|YT|TK|NF|X"
+      network: ws
+      port: 443
+      server: n5vaz1.zeeoomboom.de
+      servername: n5vaz1.zeeoomboom.de
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+      ws-opts:
+        headers:
+            HOST: n5vaz1.zeeoomboom.de
+        path: /video/i3o7f0yh.m3u8
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7KR⁻¹_2|1.8MB/s|YT|TK|NF|D+"
+      network: ws
+      port: 50001
+      server: 115.90.84.220
+      servername: s3.sni565.netlib.re
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /
+    - client-fingerprint: chrome
+      name: "\U0001F1E8\U0001F1EDCH¹⁺_2|0.7MB/s|YT|TK|NF|D+|X"
+      network: ws
+      password: b87a1832-96c8-4291-b273-30a4d68f2629
+      port: "443"
+      server: 91.245.225.69
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+        path: /Free-VPN-CF-Geo-Project/91.245.225.69=443
+    - cipher: chacha20-ietf-poly1305
+      name: "\U0001F1FA\U0001F1F8US²_9|1.0MB/s|53%|GPT⁺|GM|YT|TK|NF|X"
+      password: 65e3253e-3707-49ec-b91a-c8b3546497cc
+      port: 51004
+      server: huojian1.vn9987.top
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_3|4.4MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 8.210.226.179
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0HK⁻¹_1|1.7MB/s|YT|NF|D+"
+      network: ws
+      port: 60007
+      server: 43.161.227.251
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /
+    - client-fingerprint: randomized
+      encryption: none
+      name: "\U0001F1FA\U0001F1F8US¹-CA⁰_1|1.8MB/s|2%|GPT⁺|YT-CA|TK|NF|D+|X"
+      network: ws
+      port: "443"
+      server: 69.28.82.253
+      servername: joss.gpj1.web.id
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0930fe32-e429-4f37-b8ec-92ac52b40f6e
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
+        path: /Free-VPN-CF-Geo-Project/69.28.82.253=443
+      xudp: true
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F1FA\U0001F1F8US"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1ED\U0001F1F0HK¹⁺_5|0.8MB/s|2%|NF|D+|X"
+      network: ws
+      port: 443
+      server: 154.21.201.83
+      servername: hk.nbee.pp.ua
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 4bf075f5-4d5e-4d39-f5ab-b32a86250f0e
+      ws-opts:
+        headers:
+            HOST: hk.nbee.pp.ua
+        path: /aa
+    - name: "\U0001F1F9\U0001F1FCTW¹⁺_1|1.7MB/s|GM|YT|TK|NF|D+"
+      network: ws
+      port: 43
+      server: 220.128.110.108
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8US²_10|2.0MB/s|GPT⁺|GM|YT|TK|NF|X"
+      port: 443
+      reality-opts:
+        public-key: TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
+      server: 47.252.75.203
+      servername: www.primevideo.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3e7f67de-648e-4871-b51a-a225214d41ee
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_16|1.1MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.17
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_17|1.4MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.172
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_18|1.2MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.177
+      type: ss
+    - client-fingerprint: chrome
+      name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_4|2.2MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 38.55.198.50
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - alterId: 0
+      cipher: auto
+      country: "\U0001F3C1ZZ"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1FA\U0001F1F8US²_11|2.5MB/s|100%|GPT⁺|YT|NF|X"
+      network: ws
+      port: 443
+      server: a3fyst.zeeoomboom.de
+      servername: a3fyst.zeeoomboom.de
+      skip-cert-verify: true
+      tls: true
+      type: vmess
+      uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+      ws-opts:
+        headers:
+            HOST: a3fyst.zeeoomboom.de
+        path: /video/d4kapx2v.m3u8
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_19|0.6MB/s|GPT|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.84
+      type: ss
+    - alterId: 0
+      cipher: auto
+      name: "\U0001F1F8\U0001F1ECSG²_3|5.5MB/s|GPT⁺|YT|TK|NF|X"
+      port: 30812
+      server: v12.hdacd.com
+      skip-cert-verify: true
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    - cipher: chacha20-ietf
+      country: "\U0001F1ED\U0001F1F0 HK"
+      name: "\U0001F1ED\U0001F1F0HK²_2|0.7MB/s|X"
+      password: asd123456
+      port: 8388
+      server: 103.149.182.105
+      type: ss
+    - name: "\U0001F1EB\U0001F1F7FR¹-BE⁰_1|0.6MB/s|TK|NF|D+"
+      network: ws
+      password: 29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15
+      port: 443
+      server: 34.22.190.30
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/34.22.190.30=443
+    - alpn:
+        - ""
+      alterId: "0"
+      cipher: zero
+      name: "\U0001F1EA\U0001F1EAEE¹⁺_1|0.6MB/s|2%|GPT|X"
+      network: ws
+      port: "443"
+      server: 45.129.199.232
+      servername: vm.gpj1.web.id
+      skip-cert-verify: false
+      tls: true
+      type: vmess
+      udp: true
+      uuid: f282b878-8711-45a1-8c69-5564172123c1
+      ws-opts:
+        headers:
+            Host: vm.gpj1.web.id
+        path: /Geo-Project/45.129.199.232-443
+      xudp: true
+    - country: "\U0001F1EB\U0001F1F7FR"
+      name: "\U0001F1EB\U0001F1F7FR²_3|2.6MB/s|2%|GPT⁺|YT|TK|NF|X"
+      password: telegram-id-directvpn
+      port: 22223
+      server: 35.181.120.20
+      skip-cert-verify: true
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - client-fingerprint: chrome
+      name: "\U0001F1EB\U0001F1F7FR¹-BE⁰_2|1.1MB/s|TK|NF|D+"
+      network: ws
+      password: fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb
+      port: "443"
+      server: 34.22.190.30
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/34.22.190.30=443
+    - country: "\U0001F1EB\U0001F1F7FR"
+      name: "\U0001F1EB\U0001F1F7FR²_4|2.5MB/s|2%|GPT⁺|YT|TK|NF|X"
+      password: telegram-id-privatevpns
+      port: 22222
+      server: 35.181.120.20
+      skip-cert-verify: true
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_20|1.2MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.126
+      type: ss
+    - client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8US²_13|2.5MB/s|GPT⁺|GM|YT|TK|NF|X"
+      port: 443
+      reality-opts:
+        public-key: TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
+      server: 47.90.223.187
+      servername: www.primevideo.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3e7f67de-648e-4871-b51a-a225214d41ee
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7KR¹-TW⁰_2|1.5MB/s|YT|TK|NF|D+"
+      network: ws
+      port: 50001
+      server: 106.245.165.137
+      servername: s3.sni565.netlib.re
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_21|1.7MB/s|GPT⁺|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.77
+      type: ss
+    - alpn:
+        - http%2F1.1
+      name: "\U0001F1FA\U0001F1F8US¹⁺_4|2.5MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      password: 0
+      port: 443
+      server: 162.159.42.58
+      skip-cert-verify: true
+      sni: c03237cb.ba73fe85.netlib.re
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            Host: c03237cb.ba73fe85.netlib.re
+        path: /
+    - cipher: aes-256-cfb
+      country: "\U0001F1EB\U0001F1F7FR"
+      name: "\U0001F1EB\U0001F1F7FR²_5|1.9MB/s|2%|GPT⁺|TK|NF|X"
+      password: amazonskr05
+      port: 443
+      server: 35.181.172.34
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_22|1.6MB/s|GPT⁺|YT|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.70
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F1FA\U0001F1F8US"
+      name: "\U0001F1FA\U0001F1F8US²_14|2.5MB/s|1%|GPT⁺|GM|YT|TK|NF|X"
+      password: amazonskr05
+      port: 443
+      server: 107.23.148.46
+      type: ss
+    - alterId: 2
+      cipher: auto
+      country: "\U0001F1ED\U0001F1F0 HK"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1ED\U0001F1F0HK²_3|5.2MB/s|2%|GPT⁺|NF|D+|X"
+      network: ws
+      port: 80
+      server: hkt.gotochinatown.net
+      skip-cert-verify: true
+      type: vmess
+      uuid: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
+      ws-path: /
+    - name: "\U0001F1F0\U0001F1F7KR²_1|1.0MB/s|12%|GPT⁺|GM|YT|TK|NF|D+|X"
+      password: test.+
+      port: 30446
+      server: testkr3.ssv.vc
+      skip-cert-verify: true
+      tls: true
+      type: http
+      udp: true
+      username: test
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1FA\U0001F1F8 US"
+      name: "\U0001F1FA\U0001F1F8US²_15|0.6MB/s|41%|GPT⁺|YT|TK-SG|NF|X"
+      password: pJtDFXMfdW9VNdJpaf4e2LfFkXdWgxrz
+      port: 443
+      server: 167.150.100.115
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_23|0.6MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.12
+      type: ss
+    - name: "\U0001F1EF\U0001F1F5JP¹-SG⁰_1|5.2MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 52.192.82.166
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1F8\U0001F1ECSG¹⁺_1|0.6MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 34.143.159.175
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_5|0.7MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 95.40.61.115
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1 ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_24|1.4MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.110
+      type: ss
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7KR¹-TW⁰_3|1.6MB/s|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 33143
+      server: 222.104.213.148
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - name: "\U0001F1EA\U0001F1F8ES¹-US⁰_1|2.5MB/s|2%|GPT⁺|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 68.221.24.211
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - country: "\U0001F1ED\U0001F1F0 HK"
+      name: "\U0001F1ED\U0001F1F0HK²_4|1.7MB/s|2%|YT-CN|NF|D+|X"
+      password: BxceQaOe
+      port: 443
+      server: 58.152.53.22
+      skip-cert-verify: true
+      sni: t.me/ripaojiedian
+      type: trojan
+      udp: true
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_25|1.3MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.108
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_26|2.3MB/s|GPT⁺|GM|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.50
+      type: ss
+    - alterId: 2
+      cipher: auto
+      name: "\U0001F1ED\U0001F1F0HK²_5|0.9MB/s|2%|YT|NF|D+|X"
+      port: 30809
+      server: v9.hdacd.com
+      skip-cert-verify: true
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_28|1.9MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.44
+      type: ss
+    - name: "\U0001F1F8\U0001F1ECSG¹⁺_2|2.7MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 43.160.251.110
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_29|0.6MB/s|GPT⁺|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.163
+      type: ss
+    - client-fingerprint: chrome
+      name: "\U0001F1F8\U0001F1ECSG¹⁺_3|5.4MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 34.92.187.216
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - client-fingerprint: chrome
+      name: "\U0001F1FA\U0001F1F8US¹-SG⁰_3|3.0MB/s|2%|GM|YT|TK|NF|D+"
+      network: ws
+      port: 443
+      server: 104.16.63.112
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1FA\U0001F1F8US¹-JP⁰_2|2.2MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 2087
+      server: 172.64.38.213
+      servername: www.x-aniu--jp.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--jp.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1F3\U0001F1F1NL¹-US⁰_3|0.7MB/s|2%|GPT⁺|YT|TK|NF|D+|X"
+      network: ws
+      port: 2053
+      server: 194.35.119.49
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - client-fingerprint: firefox
+      name: "\U0001F1E9\U0001F1EADE²_8|2.5MB/s|GPT⁺|TK-FR|NF|X"
+      network: tcp
+      port: 2066
+      reality-opts:
+        public-key: -Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY
+        short-id: 6b245ab1
+      server: 185.193.17.80
+      servername: yahoo.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 44830663-914e-4127-a9b3-412406f59cbe
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_31|1.4MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.189
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F1EB\U0001F1F7FR"
+      name: "\U0001F1EB\U0001F1F7FR²_6|2.5MB/s|0%|GPT⁺|YT|TK|NF|X"
+      password: amazonskr05
+      port: 443
+      server: 35.180.122.182
+      type: ss
+    - name: "\U0001F1FA\U0001F1F8US¹-SG⁰_4|0.8MB/s|2%|GPT⁺|GM|YT|TK|NF|D+|X"
+      network: ws
+      port: 2087
+      server: 172.64.42.52
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - name: "\U0001F1E6\U0001F1F2AM⁻¹_1|2.5MB/s|YT-US|NF|X"
+      network: ws
+      password: ec8ce181-e3bf-4cdd-99d6-65e786657146
+      port: 443
+      server: 2.56.204.183
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/2.56.204.183=443
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1F0\U0001F1FFKZ²_1|1.3MB/s|75%|GPT⁺|GM|TK|NF|X"
+      port: 443
+      reality-opts:
+        public-key: g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k
+        short-id: e4
+      server: 91.224.74.177
+      servername: bit-site.ru
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: bca5cfe1-3d2a-45dc-b66a-96298e0051f5
+    - alterId: 0
+      cipher: zero
+      name: "\U0001F1E8\U0001F1E6CA¹⁺_1|0.6MB/s|2%|GPT|YT-US|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 69.28.82.253
+      servername: vm.gpj1.web.id
+      skip-cert-verify: false
+      tls: true
+      type: vmess
+      udp: true
+      uuid: f282b878-8711-45a1-8c69-5564172123c1
+      ws-opts:
+        headers:
+            Host: vm.gpj1.web.id
+        path: /Geo-Project/69.28.82.253-443
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_32|0.8MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.38
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_33|1.0MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.141
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F1E8\U0001F1F3 CN"
+      name: "\U0001F1FB\U0001F1F3VN²_34|0.6MB/s|GPT⁺|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.166
+      type: ss
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      name: "\U0001F1F0\U0001F1F7KR¹-TW⁰_4|3.0MB/s|GM|YT|TK|NF|D+"
+      network: ws
+      port: 50001
+      server: 121.131.104.228
+      servername: s2.sni565.netlib.re
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6923b959-c65f-764c-b072-94711382d716
+      ws-opts:
+        headers:
+            Host: s2.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - alterId: 2
+      cipher: auto
+      country: "\U0001F1ED\U0001F1F0 HK"
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1ED\U0001F1F0HK²_8|10.5MB/s|2%|GPT|YT|NF|D+|X"
+      network: ws
+      port: 80
+      server: 865c5c01-sv4n40-t65a3e-tqgz.hk3.p5pv.com
+      servername: broadcastlv.chat.bilibili.com
+      skip-cert-verify: true
+      type: vmess
+      uuid: 88da0d21-b25d-11ec-b9f7-f23c91cfbbc9
+      ws-headers:
+        HOST: broadcastlv.chat.bilibili.com
+      ws-path: /
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1 ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_35|0.6MB/s|GPT⁺|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.160
+      type: ss
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1EC\U0001F1E7GB"
+      name: "\U0001F1F3\U0001F1F1NL²_2|1.2MB/s|78%|GPT⁺|TK|NF|X"
+      password: k1dBOmOB4oqi7Ump37a1bQ
+      port: 8080
+      server: 82.38.31.202
+      type: ss
