@@ -3157,3 +3157,198 @@ proxies:
       tls: true
       type: vless
       uuid: 39e5cc2f-1294-4a42-bb58-306a8be785e1
+    - country: "\U0001F1F3\U0001F1F1NL"
+      name: "\U0001F1F7\U0001F1FARU²_6|2.0MB/s|YT|X"
+      password: Qzy7tgpRhu
+      port: 443
+      server: 37.18.14.33
+      skip-cert-verify: true
+      sni: sun6-22.userapi.com
+      type: trojan
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1F1\U0001F1F9LT"
+      name: "\U0001F1F3\U0001F1F1NL²_4|1.1MB/s|78%|GPT⁺|YT|TK|NF|X"
+      password: 1RWwXhwfAB5gAEozU4G2Pg
+      port: 443
+      server: 45.87.175.166
+      type: ss
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8US²_9|2.5MB/s|8%|GPT⁺|GM|YT|TK|NF|X"
+      port: 443
+      reality-opts:
+        public-key: hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo
+        short-id: 07e904766d29b958
+      server: 77.110.119.225
+      servername: st.ozone.ru
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 4819860c-0e62-4804-9c59-967e5c2bed7a
+    - cipher: chacha20-ietf
+      country: "\U0001F1ED\U0001F1F0HK"
+      name: "\U0001F1ED\U0001F1F0HK²_6|2.8MB/s|0%|X"
+      password: asd123456
+      port: 8388
+      server: 103.149.182.86
+      type: ss
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_26|0.8MB/s|GPT⁺|GM|YT|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.28
+      type: ss
+    - client-fingerprint: firefox
+      flow: xtls-rprx-vision
+      name: "\U0001F1E9\U0001F1EADE²_7|2.5MB/s|50%|GPT⁺|YT-US|TK|D+|X"
+      network: tcp
+      port: 443
+      reality-opts:
+        public-key: ebCoS9P5o6dm9v8Dxbe-lEuEzS-R9rPH0IaimuAIKDg
+        short-id: 25f8f93d
+      server: 185.121.134.113
+      servername: torretobarbershop.de
+      tls: true
+      type: vless
+      udp: true
+      uuid: 22eb7060-d314-49d6-9d24-5a3ee72488cd
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1EB\U0001F1EEFI²_1|2.4MB/s|32%|GPT⁺|YT-RU|TK|NF|X"
+      port: 443
+      reality-opts:
+        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
+        short-id: c2a0b2d60a7fc300
+      server: auto.happvpn.com
+      servername: cdnjs.com
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9a12e2e5-7038-4ed8-91f3-a94d9b2d465f
+    - client-fingerprint: chrome
+      name: "\U0001F1EA\U0001F1EAEE¹⁺_1|1.6MB/s|2%|GPT⁺|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 45.129.199.232
+      servername: joss.gpj1.web.id
+      tls: true
+      type: vless
+      udp: true
+      uuid: 2429c651-e658-43c8-aba8-bb502bd98bd9
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/45.129.199.232=443
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_28|0.6MB/s|GPT⁺|GM|YT|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.37
+      type: ss
+    - cipher: chacha20-ietf-poly1305
+      name: "\U0001F1FA\U0001F1F8US²_11|1.5MB/s|53%|GPT⁺|GM|YT|TK|NF|X"
+      password: 2eaa2cc3-9b7d-4bed-a8f9-c509d76cf57f
+      port: 51004
+      server: huojian1.vn9987.top
+      type: ss
+      udp: true
+    - name: "\U0001F1EA\U0001F1F8ES¹⁺_1|1.6MB/s|TK|NF|D+"
+      network: ws
+      password: 9ccc3e1d-3df5-4348-aa05-738310149cc3
+      port: 443
+      server: 45.86.229.28
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/45.86.229.28=443
+    - name: "\U0001F1F9\U0001F1F7TR¹-US⁰_1|0.7MB/s|2%|GM|YT|TK|NF|D+"
+      network: ws
+      port: 8443
+      server: 213.142.149.3
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - name: "\U0001F1EA\U0001F1EAEE¹⁺_2|2.5MB/s|2%|GPT⁺|YT|TK|NF|D+|X"
+      network: ws
+      port: 443
+      server: 5.101.180.145
+      servername: joss.gpj1.web.id
+      tls: true
+      type: vless
+      udp: true
+      uuid: bcc320cb-8b20-49c7-b283-7ded456a62b1
+      ws-opts:
+        headers:
+            Host: joss.gpj1.web.id
+        path: /Free-VPN-CF-Geo-Project/5.101.180.145=443
+    - name: "\U0001F1ED\U0001F1F0HK¹-SG⁰_5|4.4MB/s|2%|GPT⁺|YT|NF|D+|X"
+      network: ws
+      port: 443
+      server: 149.104.28.229
+      servername: www.x-aniu--sg.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu--sg.netlib.re
+        path: /?ed=2560
+    - cipher: chacha20-ietf-poly1305
+      country: "\U0001F1F7\U0001F1FARU"
+      name: "\U0001F1F8\U0001F1EASE²_1|2.6MB/s|5%|GPT⁺|YT-RU|TK|NF|X"
+      password: yo6h9qkhwz8UJoTZCRtoSi
+      port: 34094
+      server: 78.40.116.178
+      type: ss
+    - name: "\U0001F1E9\U0001F1EADE¹-US⁰_2|1.5MB/s|2%|GPT⁺|YT|TK|NF|D+|X"
+      network: ws
+      port: 2053
+      server: 185.103.252.54
+      servername: kuangbao.xiejiang.dpdns.org
+      skip-cert-verify: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+        path: /?ed=2560
+    - cipher: aes-256-cfb
+      country: "\U0001F3C1ZZ"
+      name: "\U0001F1FB\U0001F1F3VN²_34|0.9MB/s|GPT⁺|GM|YT|TK|NF|X"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.51
+      type: ss
+    - alterId: 0
+      cipher: auto
+      h2-opts: {}
+      http-opts: {}
+      name: "\U0001F1ED\U0001F1F0HK¹⁺_6|1.2MB/s|2%|NF|D+|X"
+      network: ws
+      port: 443
+      server: 154.21.201.83
+      tls: true
+      type: vmess
+      uuid: 4bf075f5-4d5e-4d39-f5ab-b32a86250f0e
+      ws-opts:
+        headers:
+            Host: hk.nbee.pp.ua
+        path: /aa
